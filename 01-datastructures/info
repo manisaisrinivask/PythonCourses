@@ -1,0 +1,7 @@
+Python data structures
+
+Primitives
+    Integers (These are whole numbers 1 2 3 999 or -999)
+    Float (These are numbers with decimals 1.0 1.2 3.4 etc)
+    Strings (These are any non numeric values 'Hello' 'World' '1')
+    Boolean True / False
